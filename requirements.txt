@@ -1,0 +1,7 @@
+﻿gradio==4.44.0
+groq
+elevenlabs
+python-dotenv
+Pillow
+pydub
+requests
